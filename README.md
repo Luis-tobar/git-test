@@ -15,3 +15,17 @@ Por un lado, esta **versión es más fácil de leer**, porque el asterisco permi
 | Header | Title |
 | Paragraph | Text |
 
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+Another list
+- [x] A
+- [ ] B
+- [ ] C
+
+
+
