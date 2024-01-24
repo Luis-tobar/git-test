@@ -12,8 +12,8 @@ Por un lado, esta **versión es más fácil de leer**, porque el asterisco permi
 
 | Syntax | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Header | Test |
+| Paragraph | Text support |
 
 ```
 {
